@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1011564104164741d6416219c856186c",
+    "content-hash": "8e13c1b989b4fa185193aa83bf0659ec",
     "packages": [
         {
             "name": "brick/math",
@@ -2505,16 +2505,16 @@
         },
         {
             "name": "rlanvin/php-rrule",
-            "version": "v2.3.0",
+            "version": "v2.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rlanvin/php-rrule.git",
-                "reference": "a7d7f993e6a5b0940d861d9e3d9f52cec709345e"
+                "reference": "7ddef3d49b7a6461dc070f671f0d94509c9a537b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rlanvin/php-rrule/zipball/a7d7f993e6a5b0940d861d9e3d9f52cec709345e",
-                "reference": "a7d7f993e6a5b0940d861d9e3d9f52cec709345e",
+                "url": "https://api.github.com/repos/rlanvin/php-rrule/zipball/7ddef3d49b7a6461dc070f671f0d94509c9a537b",
+                "reference": "7ddef3d49b7a6461dc070f671f0d94509c9a537b",
                 "shasum": ""
             },
             "require": {
@@ -2548,9 +2548,9 @@
             ],
             "support": {
                 "issues": "https://github.com/rlanvin/php-rrule/issues",
-                "source": "https://github.com/rlanvin/php-rrule/tree/v2.3.0"
+                "source": "https://github.com/rlanvin/php-rrule/tree/v2.4.1"
             },
-            "time": "2021-10-25T14:31:52+00:00"
+            "time": "2023-06-07T13:15:59+00:00"
         },
         {
             "name": "sabre/dav",
