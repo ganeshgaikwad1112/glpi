@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1011564104164741d6416219c856186c",
+    "content-hash": "73bcbf0b136afbcf4a0b686a22660d09",
     "packages": [
         {
             "name": "brick/math",
@@ -4989,16 +4989,16 @@
         },
         {
             "name": "wapmorgan/unified-archive",
-            "version": "1.1.10",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wapmorgan/UnifiedArchive.git",
-                "reference": "3fc76bbe24e5ff4789738dd7ee5fb01307ae3021"
+                "reference": "5f02ad060223fd714aaf7f64a18d8e819ac0ab93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wapmorgan/UnifiedArchive/zipball/3fc76bbe24e5ff4789738dd7ee5fb01307ae3021",
-                "reference": "3fc76bbe24e5ff4789738dd7ee5fb01307ae3021",
+                "url": "https://api.github.com/repos/wapmorgan/UnifiedArchive/zipball/5f02ad060223fd714aaf7f64a18d8e819ac0ab93",
+                "reference": "5f02ad060223fd714aaf7f64a18d8e819ac0ab93",
                 "shasum": ""
             },
             "require": {
@@ -5084,9 +5084,9 @@
             ],
             "support": {
                 "issues": "https://github.com/wapmorgan/UnifiedArchive/issues",
-                "source": "https://github.com/wapmorgan/UnifiedArchive/tree/1.1.10"
+                "source": "https://github.com/wapmorgan/UnifiedArchive/tree/1.2.0"
             },
-            "time": "2023-01-17T00:15:57+00:00"
+            "time": "2023-06-30T15:52:56+00:00"
         },
         {
             "name": "webmozart/assert",
