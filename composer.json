@@ -67,7 +67,7 @@
         "symfony/polyfill-mbstring": "^1.26",
         "symfony/polyfill-php80": "^1.26",
         "symfony/polyfill-php81": "^1.26",
-        "symfony/polyfill-php82": "^1.26",
+        "symfony/polyfill-php82": "^1.28",
         "tecnickcom/tcpdf": "^6.6",
         "thenetworg/oauth2-azure": "^2.1",
         "true/punycode": "^2.1",
