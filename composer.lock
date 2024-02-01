@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1011564104164741d6416219c856186c",
+    "content-hash": "f88f3b54f2d304bd127f8dccd3cb0fbb",
     "packages": [
         {
             "name": "brick/math",
@@ -173,25 +173,25 @@
         },
         {
             "name": "elvanto/litemoji",
-            "version": "4.1.0",
+            "version": "5.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/elvanto/litemoji.git",
-                "reference": "b48e23c94abd0b01a41907fff427b28d8513dc2e"
+                "reference": "319324e50315e5744592c15831bbdc1286bb3d22"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/elvanto/litemoji/zipball/b48e23c94abd0b01a41907fff427b28d8513dc2e",
-                "reference": "b48e23c94abd0b01a41907fff427b28d8513dc2e",
+                "url": "https://api.github.com/repos/elvanto/litemoji/zipball/319324e50315e5744592c15831bbdc1286bb3d22",
+                "reference": "319324e50315e5744592c15831bbdc1286bb3d22",
                 "shasum": ""
             },
             "require": {
                 "ext-mbstring": "*",
-                "php": ">=7.3"
+                "php": ">=7.4"
             },
             "require-dev": {
-                "milesj/emojibase": "6.1.*",
-                "phpunit/phpunit": "9.4.*"
+                "milesj/emojibase": "15.3.*",
+                "phpunit/phpunit": "^9.0"
             },
             "type": "library",
             "autoload": {
@@ -210,9 +210,9 @@
             ],
             "support": {
                 "issues": "https://github.com/elvanto/litemoji/issues",
-                "source": "https://github.com/elvanto/litemoji/tree/4.1.0"
+                "source": "https://github.com/elvanto/litemoji/tree/5.0.0"
             },
-            "time": "2021-11-18T22:21:54+00:00"
+            "time": "2024-01-08T23:21:14+00:00"
         },
         {
             "name": "firebase/php-jwt",
