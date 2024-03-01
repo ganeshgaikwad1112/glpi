@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1011564104164741d6416219c856186c",
+    "content-hash": "9c2690745db42bae21131a780c2d961a",
     "packages": [
         {
             "name": "brick/math",
@@ -4267,16 +4267,16 @@
         },
         {
             "name": "symfony/polyfill-php82",
-            "version": "v1.26.0",
+            "version": "v1.29.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php82.git",
-                "reference": "a88014fcea4120c9f77b4fefd48942ce38e412e7"
+                "reference": "559d488c38784112c78b9bf17c5ce8366a265643"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php82/zipball/a88014fcea4120c9f77b4fefd48942ce38e412e7",
-                "reference": "a88014fcea4120c9f77b4fefd48942ce38e412e7",
+                "url": "https://api.github.com/repos/symfony/polyfill-php82/zipball/559d488c38784112c78b9bf17c5ce8366a265643",
+                "reference": "559d488c38784112c78b9bf17c5ce8366a265643",
                 "shasum": ""
             },
             "require": {
@@ -4284,9 +4284,6 @@
             },
             "type": "library",
             "extra": {
-                "branch-alias": {
-                    "dev-main": "1.26-dev"
-                },
                 "thanks": {
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
@@ -4326,7 +4323,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php82/tree/v1.26.0"
+                "source": "https://github.com/symfony/polyfill-php82/tree/v1.29.0"
             },
             "funding": [
                 {
@@ -4342,7 +4339,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-05-24T09:13:51+00:00"
+            "time": "2024-01-29T20:11:03+00:00"
         },
         {
             "name": "symfony/service-contracts",
