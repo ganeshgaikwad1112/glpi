@@ -62,7 +62,7 @@
         "symfony/console": "^5.4",
         "symfony/css-selector": "^5.4",
         "symfony/dom-crawler": "^5.4",
-        "symfony/polyfill-ctype": "^1.26",
+        "symfony/polyfill-ctype": "^1.29",
         "symfony/polyfill-iconv": "^1.26",
         "symfony/polyfill-mbstring": "^1.26",
         "symfony/polyfill-php80": "^1.26",
